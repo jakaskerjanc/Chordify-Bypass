@@ -1,1 +1,1 @@
-Simple extension that deletes UID cookie on every load.
+Simple extension that deletes CID cookie on every load.
